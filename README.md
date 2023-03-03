@@ -1,16 +1,19 @@
-### Hi there 👋
+### SOY OVED FISO
 
-<!--
-**ovedfs/ovedfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me dedico a:
+- Desarrollo web (Front & Backend)
+- Capacitación
+- Asesoría
 
-Here are some ideas to get you started:
+Uso principalmente:
+- **Backend** -> Laravel (php) / MySQL / Node JS
+- **Frontend** -> Javascript / HTML5 / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ovedfs.com](https://ovedfs.com/) - Este es mi sitio web
+
+Me gusta:
+- Leer 📚
+- La astronomía 🚀
+- Los tacos de pastor 🌮
+
+> _"Soy la espada en la oscuridad. Soy el vigilante del Muro. Soy el fuego que arde contra el frío, la luz que trae el amanecer, el cuerno que despierta a los durmientes..."_
